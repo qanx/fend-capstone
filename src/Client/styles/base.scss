@@ -1,0 +1,28 @@
+@import "~bootstrap/scss/bootstrap";
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('https://image.freepik.com/free-photo/flat-lay-yellow-luggage-with-copy-space_23-2148786124.jpg');
+
+
+   
+    height: 100%;
+  
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+  }
+
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+ 
